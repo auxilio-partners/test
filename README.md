@@ -2,4 +2,4 @@
 
 ## Multiply your ministry
 
-Visit us at [auxilio.partners]
+Visit us at [auxilio.partners](https://auxilio.partners)
